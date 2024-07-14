@@ -7,7 +7,7 @@
     },
     "rewrites": [
       {
-        "source": "/(.*)",
+        "source": "https://julieta-seven.vercel.app/",
         "destination": "api/server.js"
       }
     ]
