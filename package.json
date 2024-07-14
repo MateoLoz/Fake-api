@@ -2,9 +2,9 @@
   "name": "alurageek-api",
   "version": "1.0.0",
   "description": "Products for Alura Geek fake store api",
-  "main": "index.js",
+  "main": "api/server.js",
   "scripts": {
-    "start": "json-server --watch db.json --port 3000"
+    "start": "node api/server.js""
   },
   "repository": {
     "type": "git",
